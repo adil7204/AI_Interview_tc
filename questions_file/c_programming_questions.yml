@@ -1,0 +1,100 @@
+-- What is C programming?: 
+ - C is a general-purpose, procedural programming language developed in the early 1970s by Dennis Ritchie.
+-- What are the key features of C language?: 
+ - It includes features like low-level memory access, a simple set of keywords, and a clean style.
+-- What is a variable in C?: 
+ - A variable is a named space in memory that stores a value.
+-- What are the basic data types in C?: 
+ - int, float, double, char.
+-- What is a pointer in C?: 
+ - A pointer is a variable that stores the memory address of another variable.
+-- What is the use of printf() in C?: 
+ - printf() is used to print output to the standard output screen.
+-- What is the use of scanf() in C?: 
+ - scanf() is used to read input from the user.
+-- What is a function in C?: 
+ - A function is a block of code that performs a specifictask.
+-- What is the main() function in C?: 
+ - It is the entry point of every C program.
+-- What is the difference between = and == in C?: 
+ - = is an assignment operator, == is a comparison operator.
+-- What is an array in C?: 
+ - An array is a collection of elements of the same type stored in contiguous memory locations.
+-- What is a loop in C?: 
+ - A loop is used to execute a block of code repeatedly.
+-- What are the types of loops in C?: 
+ - for loop, while loop, and do-while loop.
+-- What is a structure in C?: 
+ - A structure is a user-defined data type that allows grouping variables of different types.
+-- What is the use of sizeof() operator?: 
+ - It is used to get the size of a data type or variable.
+-- What is a header file in C?: 
+ - A header file contains function declarations and macros.
+-- What is recursion in C?: 
+ - Recursion is when a function calls itself.
+-- What is the difference between call by value and call by reference?: 
+ - Call by value passes a copy, call by reference passes the actual variable address.
+-- What is a pointer to a pointer?: 
+ - A pointer to a pointer is a variable that stores the address of another pointer.
+-- What is NULL pointer in C?: 
+ - A NULL pointer points to nothing or zero address.
+-- What is the use of break statement?: 
+ - break exits the current loop or switch statement.
+-- What is the use of continue statement?: 
+ - continue skips the current iteration of a loop.
+-- What is a string in C?: 
+ - A string is a character array terminated with a null character.
+-- What is the use of strcmp() function?: 
+ - It compares two strings.
+-- What is the use of strcpy() function?: 
+ - It copies one string to another.
+-- What is the use of strcat() function?: 
+ - It concatenates two strings.
+-- What is dynamic memory allocation?: 
+ - It is the process of allocating memory during runtime using malloc, calloc, realloc.
+-- What is the difference between malloc() and calloc()?: 
+ - malloc() allocates uninitialized memory, calloc() allocates and initializes to zero.
+-- What is a segmentation fault?: 
+ - It is an error caused by accessing memory that is not allowed.
+-- What is the purpose of return statement in C?: 
+ - It exits a function and optionally returns a value.
+-- What is a macro in C?: 
+ - A macro is a preprocessor directive that defines a constant or function-like code.
+-- What is the use of #define.: 
+ - It defines macros in C.
+-- What is a preprocessor in C?: 
+ - It processes directives before the actual compilation starts.
+-- What is typecasting in C?: 
+ - It converts one data type to another.
+-- What is an enum in C?: 
+ - An enum is a user-defined type consisting of named integer constants.
+-- What is the difference between global and local variables?: 
+ - Global variables are accessible everywhere, local variables are limited to the block.
+-- What is the use of static keyword in C?: 
+ - It retains the value of a variable across function calls or limits scope to file.
+-- What is a file in C?: 
+ - A file is a resource for storing data permanently.
+-- What functions are used to open and close files in C?: 
+ - fopen() and fclose().
+-- How to read from a file in C?: 
+ - Use functions like fscanf(), fgets(), fread().
+-- How to write to a file in C?: 
+ - Use functions like fprintf(), fputs(), fwrite().
+-- What is the use of fseek()?: 
+ - It moves the file pointer to a specific location.
+-- What is the difference between text and binary mode in files?: 
+ - Text mode is for readable files, binary mode is for raw data.
+-- What is command line argument in C?: 
+ - Parameters passed to the main() function ia the command line.
+-- What is the syntax of for loop in C?: 
+ - for(initialization; condition; increment) { // code .
+-- What is the purpose of do-while loop?: 
+ - It executes the block at least once before checking the condition.
+-- What is the difference between getch() and getchar()?: 
+ - getch() does.'t echo input, getchar() does.
+-- What is the use of exit() function?: 
+ - It terminates the program immediately.
+-- What is the difference between int main() and void main()?: 
+ - int main() is standard and returns an integer; void main() is compiler-specific.
+-- What are escape sequences in C?: 
+ - Special characters starting with backslashlike.
